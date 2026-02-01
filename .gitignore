@@ -24,3 +24,4 @@ terraform.rc
 
 # Your private key (never push!)
 *.pem
+bandit.md
